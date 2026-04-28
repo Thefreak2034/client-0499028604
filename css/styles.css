@@ -1,6 +1,6 @@
 /* ═══════════════════════════════════════════════════════════════
    TEMPLATE MID2 — Electrician (Drill Handyman Services theme)
-   Design: Blue (#1646D2) primary, dark heading (#1F1F25)
+   Design: Blue (#22C55E) primary, dark heading (#1F1F25)
    Fonts: Exo (headings) + Albert Sans (body)
    Two-row header. Mobile side-panel nav.
    Mobile-first responsive. Safari & Chrome tested.
@@ -10,7 +10,7 @@
    CSS Custom Properties
 ────────────────────────────────────── */
 :root {
-  --primary:       #1646D2;
+  --primary:       #22C55E;
   --primary-dark:  #1235A8;
   --heading:       #1F1F25;
   --body:          #6E777D;
@@ -217,7 +217,7 @@ ul { list-style: none; }
   align-items: center;
   justify-content: center;
   flex-shrink: 0;
-  color: #1646D2;
+  color: #22C55E;
 }
 
 .header-info-label {
@@ -395,7 +395,7 @@ ul { list-style: none; }
   transition: color 0.3s;
 }
 
-.nav-phone:hover { color: #1646D2; }
+.nav-phone:hover { color: #22C55E; }
 
 /* CTA in nav — hidden until scrolled (higher specificity to beat .btn) */
 .actions-area .nav-cta {
@@ -450,14 +450,14 @@ ul { list-style: none; }
   height: 44px;
   border-radius: 50%;
   background: rgba(22, 70, 210, 0.08);
-  color: #1646D2;
+  color: #22C55E;
   align-items: center;
   justify-content: center;
   transition: background 0.3s;
 }
 
 .nav-phone-tablet:hover {
-  background: #1646D2;
+  background: #22C55E;
   color: #fff;
 }
 
@@ -1335,7 +1335,7 @@ ul { list-style: none; }
 }
 
 .section--dark-angled .feature-card .feature-card-icon svg {
-  stroke: #1646D2;
+  stroke: #22C55E;
 }
 
 .section--dark-angled .features-image img {
@@ -1947,7 +1947,7 @@ input:-webkit-autofill:focus {
 }
 
 .footer-cta-logo-col {
-  background: #1646D2;
+  background: #22C55E;
   padding: 38px;
   border-radius: 10px 0 0 10px;
   display: flex;
@@ -1985,7 +1985,7 @@ input:-webkit-autofill:focus {
   width: 50px;
   height: 50px;
   border-radius: 50%;
-  background: #1646D2;
+  background: #22C55E;
   color: #fff;
   display: flex;
   align-items: center;
@@ -2091,7 +2091,7 @@ input:-webkit-autofill:focus {
 }
 
 .footer-social-link:hover {
-  background: #1646D2;
+  background: #22C55E;
 }
 
 .footer-links {
@@ -2110,7 +2110,7 @@ input:-webkit-autofill:focus {
 }
 
 .footer-link:hover {
-  color: #1646D2;
+  color: #22C55E;
 }
 
 .footer-link svg {
@@ -2163,7 +2163,7 @@ input:-webkit-autofill:focus {
 }
 
 .footer-credit:hover {
-  color: #1646D2;
+  color: #22C55E;
 }
 
 /* ──────────────────────────────────────
